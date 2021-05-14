@@ -1,0 +1,11 @@
+.boxShawdom {
+    box-shadow: rgba(89, 102, 122, 0.1) 0px 0px 20px !important;
+}
+
+.theme--light.v-navigation-drawer:not(.v-navigation-drawer--floating) .v-navigation-drawer__border {
+    background-color: transparent !important;
+}
+
+.theme--light.v-app-bar.v-toolbar.v-sheet {
+    background-color: #ffffff !important;
+}

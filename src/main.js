@@ -8,6 +8,8 @@ import 'roboto-fontface/css/roboto/roboto-fontface.css'
 import '@fortawesome/fontawesome-free/css/all.css'
 import AppLayout from "./layouts/AppLayout";
 
+import './assets/css/styles.css';
+
 Vue.component('AppLayout', AppLayout)
 
 Vue.config.productionTip = false
